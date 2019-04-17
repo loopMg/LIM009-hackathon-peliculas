@@ -27,7 +27,7 @@ btnMovies.addEventListener('click', () =>{
 
 const optFilter = document.getElementById('filterYear');
 
-const urlStarWars = 'http://www.omdbapi.com/?s=star-wars&apikey=ec75ba49';
+const urlStarWars = 'https://www.omdbapi.com/?s=star-wars&apikey=ec75ba49';
 
 // Imprime toda la data primera historia de usurio 
 fetch(urlStarWars)
