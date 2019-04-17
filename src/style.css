@@ -152,3 +152,17 @@ display: block
     padding-top: 2%;
 }
 
+#filterYear {
+    width: 10%;
+    height: 30px;;
+    text-align: center;
+    font-size: 15px;
+    background: transparent;
+    border: none;
+    color: white;
+    
+}
+
+.values{
+    color: black;
+}
