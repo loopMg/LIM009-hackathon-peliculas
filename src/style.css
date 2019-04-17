@@ -59,9 +59,6 @@ body {
 figure {
     width: 100%;
 }
-.menu {
-    height: ;
-}
 
 .menu > li{
 position: relative;
@@ -132,11 +129,13 @@ display: block
     margin-top: 5%;
     margin-bottom: 2%;
     font-family: 'Roboto Condensed', sans-serif;
+    font-size: 18px;
 }
 
 #containerInicio h1 {
     margin-bottom: 2%;
     font-family: 'Oswald', sans-serif;
+    font-size: 20px;
 }
 
 #containerMovies{
