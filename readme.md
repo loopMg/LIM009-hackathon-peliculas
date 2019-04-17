@@ -2,41 +2,103 @@
 
 ## Índice
 
-* [Preámbulo](#preámbulo)
-* [Resumen del proyecto](#resumen-del-proyecto)
-* [Consideraciones generales](#consideraciones-generales)
-* [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
-* [Parte obligatoria](#parte-obligatoria)
-* [Consideraciones técnicas](#consideraciones-técnicas)
+* [Sobre Star Wars](#Sobre-Star-Wars)
+* [Definición del producto](#Definición-del-producto)
+* [Proceso de diseño](#Proceso-de-diseño)
+* [Historias de usuario](#Historias-de-usuario)
+* [Test de usabilidad](#Test-de-usabilidad)
 
  ***
 
-## Preámbulo
+## Sobre Star Wars
 
-Con la aparición de plataformas para ver películas en la nube, como Netflix o
-Hulu, ver películas desde donde estés, comiendo lo que quieras
-(sin tener que pagar precios ridículos por pop-corn / pipoca / palomitas /
-canchita / cabritas), parando si es necesario, teniendo acceso a una cantidad
-abrumadora de películas... ha cambiado la experiencia del usuario
-y modificado el mercado de las películas a nivel global.
+Star Wars es una franquicia creado por el cineasta estadounidense George Lucas, y producidas y distribuidas por The Walt Disney Compani a partir de 2012. Su trama describe las vivencias de un grupo de personajes que habitan en una galaxia ficticia e interactúan con elementos como (la fuerza) un campo de energía metafísico y omnipresente que posee un (lado oscuro) provocado por la ira, el miedo y el odio. 
 
- ![Pelis](https://media.giphy.com/media/NipFetnQOuKhW/giphy.gif)
+ ![StarWars](https://i.ibb.co/tYT4LTZ/Star-Wars-Logo.png)
 
-## Resumen del proyecto
+## Definición del producto
 
-Durante estos días crearás el producto que tú quieras alrededor del mundo
-de las películas. Puede ser un sitio que hable de las mejores películas
-latinoamericanas, uno que recomiende las películas recién estrenadas en Netflix,
-uno de pelis de terror... o... ¡lo que quieras!
+Si hablamos de sagas famosas en la historia del cine, no podemos dejar de hablar de Star Wars, es por ello que en Laboratoria hemos creado una página web donde los fans de la saga podrán revisar la información a detalle de cada una de las películas y amigable.
 
-## Consideraciones generales
+![Logo](https://i.ibb.co/52mNnzN/LOGO.png)
 
-* Este proyecto se debe resolver en equipos de hasta 4 personas.
-* Usa la API de [OMDB](http://www.omdbapi.com/) (The Open Movie Database).
-* Tiempo para completar el reto: 3 días.
-* Habrán dos presentaciones, una a la mitad de la _hackathon_ y otra al final.
+##Proceso de diseño
 
-## Objetivos de aprendizaje
+![Descubrimiento e investigación](https://i.ibb.co/b6VKwC7/descubrimiento.png)
+
+## Encuestas
+
+Se realizo la encuesta a los que se consideran fans de Star Wars, para saber que tan factible sería tener una pagina web donde tengan toda la información de su saga favorita. Se enviaron las preguntas para determinar el nivel de prioridad de los datos por cada película.
+A continuación, mostramos los resultados:
+
+* Pregunta 1: ¿Te consideras fan de Star Wars?
+
+![Pregunta1](https://i.ibb.co/r0GFRTn/pregunta1.png)
+
+El 92.3% de los 13 encuestados es fan de Star Wars, solo un 7.7% indico que no era fan de la saga preferida por muchos y 0.0% indico que no lo era.
+
+* Pregunta 2: ¿Cuál es tu personaje favorito?
+
+![Pregunta2](https://i.ibb.co/kHVQyNF/pregunta2.png)
+
+El 38.5% tiene como personaje favorito a Leia Organa, el 23.1% prefiere a Chewbacca, el 15.4% eligió a Darth Vader y un 7.7% tiene como favoritos Han Solo y Yoda siendo este un empate. El otro 7.7% no tiene personaje favorito.
+
+* Pregunta 3: ¿Cómo identificas más rápido una película?
+
+![Pregunta3](https://i.ibb.co/F3L5xJR/pregunta3.png)
+
+El 69.2% coincidieron que la forma más rápida de identificar una película es por su portada, el 23.1% las identifica por el trailer y solo el 7.7 por los personajes.
+
+* Pregunta 4: ¿Cuál es la mejor película de la saga?
+
+![Pregunta4](https://i.ibb.co/r26Dp4N/pregunta4.png)
+
+Esta pregunta a diferencia de otras tuvo diversas respuestas. El considera El retorno del Jedi como la mejor película, mientras un 16.7% El imperio contraataca, El despertar de la fuerza y La venganza de los Sith respectivamente, dejando como las menos preferidas a La amenaza fantasma y Una nueva esperanza con un 8.3% cada una.
+
+* Pregunta 5: ¿Consideras importante saber el año de publicación de las películas de Star Wars?
+
+![Pregunta5](https://i.ibb.co/b5Hzfbt/pregunta5.png)
+
+Para el 92.3% de los fans considera importante el año de publicación de cada película y solo un 7.7% no cree que este dato sea importante.
+
+* Pregunta 6: ¿Te gustaría saber el tiempo de duración de cada película?
+
+![Pregunta6](https://i.ibb.co/Kb1P9gn/pregunta6.png)
+
+Al 92.3% le gustaría saber el tiempo de duración de cada película y solo el 7.7 considera irrelevante esta información.
+
+## Síntesis y definición
+
+![Síntesis y definición](https://i.ibb.co/zV5TGmP/2.png)
+
+User persona
+
+## Ideación
+
+![Ideación](https://i.ibb.co/L9Tb2h2/3.png)
+
+Historia de usuario
+
+Despues de realizar las encuentas se idenfico los re
+
+1 Como : Fan de Star Wars
+  Quiero: Ver las portadas de las películas (imagen, titulo)
+  Para: Identificar las peliculas más rapido
+
+2 como: Fan de Star Wars
+  Quiero: Buscar las películas por año de estreno
+  Para: Decidir cual elegir
+
+3 como: Fan de Star Wars
+  Quiero: Saber el tiempo de duración de las peliculas 
+  Para: Ver una película que este acorde a mi disponibilidad de tiempo
+
+  ## Prototipado
+
+![Ideación](https://i.ibb.co/zJ5HFT6/4.png)
+
+Se realizó el protopito de baja fidelidad
+
 
 * Enfrentarte a un reto de corta duración en el que pongas en práctica todo
 lo aprendido hasta ahora.
@@ -65,28 +127,6 @@ propuso [Walmart](https://drive.google.com/file/d/0B6GBtl-gO6LwaVprQkFqTGI2a28/v
 * Cada squad tendrá 5 minutos para presentar su demo y 5 minutos para recibir preguntas.
 
 * Las personas que presentan en la primera presentación no deben ser las mismas de la presentación final.
-
-## Horario
-
-|       |  Lunes            | Martes                       | Miércoles                     | 
-|------ | ------------------| ---------------------------- | ----------------------------- | 
-| 8:00  | Kick off hackaton | Daily por squad              |   Hackeo                      |      
-| 9:00  | Sesión de planificación  | Hackeo                |   Detalles finales            | 
-| 10:00 | Hackeo            | Compartir link de aplicación | Feria de demostraciones       |
-| 11:00 |                   | Presentación y Feedback      | Presentación de mejores squads|    
-| 12:00 |                   |                              |     Deliberación del jurado   |                                
-|>13:00 |                   |                              |                               |                                
-| 20:00 |                   |                              |                               |                       
-
-## Tips para la organización de trabajo entre UX y Front end 
-
-* Las UX y FE entienden en conjunto el reto en el que van a trabajar, se organizan y arman sus primeros bocetos.
-* Con los primeros bocetos/ideas, las FE pasan a crear su ambiente de desarrollo y a crear componentes atómicos que luego les sea fácil personalizar con CSS y utilizar para crear interfaces más complejas. Además, las FE empiezan también a trabajar en la lógica de la aplicación. Mientras tanto, las UX crean una guía de estilos, los flujos de usuarios, hacen un prototipo más completo y lo testean.
-* Las UX comparten el prototipo testeado, para que el equipo empiece a personalizar los componentes y a ponerlos en conjunto.
-* Las UX hacen QA y testing con los releases que vayan haciendo las FE.
-* Planifiquen, historias de usuario y definition of done son importantísimos.
-* Usen las ceremonias ágiles para saber en que van como equipo, dailys y retrospectivas diarias son esenciales.
-* Iteren, iteren, iteren.
 
 ## ¿Qué es la Feria de demos?
 
