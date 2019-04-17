@@ -1,7 +1,3 @@
-// Funciones 
-const searchMovie = (arrData, range) => {
-    return arrData.filter(object => object.Year <= range);
-    };
 
 
 
@@ -17,14 +13,3 @@ const searchMovie = (arrData, range) => {
 
 
 
-
-
-
-
-
-
-
-
-
-    
-    window.searchMovie = searchMovie;
