@@ -2,95 +2,136 @@
 
 ## Índice
 
-* [Preámbulo](#preámbulo)
-* [Resumen del proyecto](#resumen-del-proyecto)
-* [Consideraciones generales](#consideraciones-generales)
-* [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
-* [Parte obligatoria](#parte-obligatoria)
-* [Consideraciones técnicas](#consideraciones-técnicas)
+* [Sobre Star Wars](#Sobre-Star-Wars)
+* [Definición del producto](#Definición-del-producto)
+* [Proceso de diseño](#Proceso-de-diseño)
+* [Test de usabilidad](#Test-de-usabilidad)
 
  ***
 
-## Preámbulo
+## Sobre Star Wars
 
-Con la aparición de plataformas para ver películas en la nube, como Netflix o
-Hulu, ver películas desde donde estés, comiendo lo que quieras
-(sin tener que pagar precios ridículos por pop-corn / pipoca / palomitas /
-canchita / cabritas), parando si es necesario, teniendo acceso a una cantidad
-abrumadora de películas... ha cambiado la experiencia del usuario
-y modificado el mercado de las películas a nivel global.
+Star Wars es una franquicia creado por el cineasta estadounidense George Lucas, y producidas y distribuidas por The Walt Disney Compani a partir de 2012. Su trama describe las vivencias de un grupo de personajes que habitan en una galaxia ficticia e interactúan con elementos como (la fuerza) un campo de energía metafísico y omnipresente que posee un (lado oscuro) provocado por la ira, el miedo y el odio. 
 
- ![Pelis](https://media.giphy.com/media/NipFetnQOuKhW/giphy.gif)
+ ![StarWars](https://i.ibb.co/tYT4LTZ/Star-Wars-Logo.png)
 
-## Resumen del proyecto
+## Definición del producto
 
-Durante estos días crearás el producto que tú quieras alrededor del mundo
-de las películas. Puede ser un sitio que hable de las mejores películas
-latinoamericanas, uno que recomiende las películas recién estrenadas en Netflix,
-uno de pelis de terror... o... ¡lo que quieras!
+Si hablamos de sagas famosas en la historia del cine, no podemos dejar de hablar de Star Wars, es por ello que en Laboratoria hemos creado una página web donde los fans de la saga podrán revisar la información a detalle de cada una de las películas y amigable.
 
-## Consideraciones generales
+![Logo](https://i.ibb.co/52mNnzN/LOGO.png)
 
-* Este proyecto se debe resolver en equipos de hasta 4 personas.
-* Usa la API de [OMDB](http://www.omdbapi.com/) (The Open Movie Database).
-* Tiempo para completar el reto: 3 días.
-* Habrán dos presentaciones, una a la mitad de la _hackathon_ y otra al final.
+##Proceso de diseño
 
-## Objetivos de aprendizaje
+![Descubrimiento e investigación](https://i.ibb.co/b6VKwC7/descubrimiento.png)
 
-* Enfrentarte a un reto de corta duración en el que pongas en práctica todo
-lo aprendido hasta ahora.
-* Que sigas desarrollando tus habilidades de trabajo en equipo. Mientras más
-personas en un equipo de trabajo, mayor complejidad para: tener un entendimiento
-común, seguir el flujo de trabajo, buscar consensos, etc.
+## Encuestas
 
-## Parte Obligatoria
+Se realizo la encuesta a los que se consideran fans de Star Wars, para saber que tan factible sería tener una pagina web donde tengan toda la información de su saga favorita. Se enviaron las preguntas para determinar el nivel de prioridad de los datos por cada película.
+A continuación, mostramos los resultados:
 
-* Todo el planeamiento del trabajo deberá ser detallado en un repositorio único
-por _squad_ en el que se presente el _planning_, el _research_, los _sketches_
-y las inspiraciones utilizadas para definir el producto.
-* Además, deberás detallar en el archivo _readme_, qué hizo cada una en el
-proyecto.
-* El producto deberá presentarse publicado en github pages.
+* Pregunta 1: ¿Te consideras fan de Star Wars?
 
-## Consideraciones técnicas
+![Pregunta1](https://i.ibb.co/r0GFRTn/pregunta1.png)
 
-* El diseño visual de los componentes es de libre elección de las estudiantes,
-sin embargo, si no quieren crearlo desde cero, pueden utilizar el que
-propuso [Walmart](https://drive.google.com/file/d/0B6GBtl-gO6LwaVprQkFqTGI2a28/view).
-* Deberán usar al menos un framework de css.
+El 92.3% de los 13 encuestados es fan de Star Wars, solo un 7.7% indico que no era fan de la saga preferida por muchos y 0.0% indico que no lo era.
 
-## Reglas de las presentaciones 
+* Pregunta 2: ¿Cuál es tu personaje favorito?
 
-* Cada squad tendrá 5 minutos para presentar su demo y 5 minutos para recibir preguntas.
+![Pregunta2](https://i.ibb.co/kHVQyNF/pregunta2.png)
 
-* Las personas que presentan en la primera presentación no deben ser las mismas de la presentación final.
+El 38.5% tiene como personaje favorito a Leia Organa, el 23.1% prefiere a Chewbacca, el 15.4% eligió a Darth Vader y un 7.7% tiene como favoritos Han Solo y Yoda siendo este un empate. El otro 7.7% no tiene personaje favorito.
 
-## Horario
+* Pregunta 3: ¿Cómo identificas más rápido una película?
 
-|       |  Lunes            | Martes                       | Miércoles                     | 
-|------ | ------------------| ---------------------------- | ----------------------------- | 
-| 8:00  | Kick off hackaton | Daily por squad              |   Hackeo                      |      
-| 9:00  | Sesión de planificación  | Hackeo                |   Detalles finales            | 
-| 10:00 | Hackeo            | Compartir link de aplicación | Feria de demostraciones       |
-| 11:00 |                   | Presentación y Feedback      | Presentación de mejores squads|    
-| 12:00 |                   |                              |     Deliberación del jurado   |                                
-|>13:00 |                   |                              |                               |                                
-| 20:00 |                   |                              |                               |                       
+![Pregunta3](https://i.ibb.co/F3L5xJR/pregunta3.png)
 
-## Tips para la organización de trabajo entre UX y Front end 
+El 69.2% coincidieron que la forma más rápida de identificar una película es por su portada, el 23.1% las identifica por el trailer y solo el 7.7 por los personajes.
 
-* Las UX y FE entienden en conjunto el reto en el que van a trabajar, se organizan y arman sus primeros bocetos.
-* Con los primeros bocetos/ideas, las FE pasan a crear su ambiente de desarrollo y a crear componentes atómicos que luego les sea fácil personalizar con CSS y utilizar para crear interfaces más complejas. Además, las FE empiezan también a trabajar en la lógica de la aplicación. Mientras tanto, las UX crean una guía de estilos, los flujos de usuarios, hacen un prototipo más completo y lo testean.
-* Las UX comparten el prototipo testeado, para que el equipo empiece a personalizar los componentes y a ponerlos en conjunto.
-* Las UX hacen QA y testing con los releases que vayan haciendo las FE.
-* Planifiquen, historias de usuario y definition of done son importantísimos.
-* Usen las ceremonias ágiles para saber en que van como equipo, dailys y retrospectivas diarias son esenciales.
-* Iteren, iteren, iteren.
+* Pregunta 4: ¿Cuál es la mejor película de la saga?
 
-## ¿Qué es la Feria de demos?
+![Pregunta4](https://i.ibb.co/r26Dp4N/pregunta4.png)
 
-La feria de demos se realizará el día de las presentaciones, consiste en la dinámica de “speed dating”, cada squad presentará su demo durante 3 minutos a un grupo de personas, entre ellos los jurados de la Hackathon. Luego de los 3 minutos sonará una chicharra y el grupo de personas rotará al siguiente squad, de esta forma deberán presentar durante una hora. 
+Esta pregunta a diferencia de otras tuvo diversas respuestas. El considera El retorno del Jedi como la mejor película, mientras un 16.7% El imperio contraataca, El despertar de la fuerza y La venganza de los Sith respectivamente, dejando como las menos preferidas a La amenaza fantasma y Una nueva esperanza con un 8.3% cada una.
 
-* Las demos no deben durar más de 3 minutos y deben mostrar el producto y las tecnologías usadas.
-* Los asistentes van a votar por los 5 equipos finalistas, quienes tendrán la oportunidad de hacer su demo a todo el público para poder elegir un ganador. 
+* Pregunta 5: ¿Consideras importante saber el año de publicación de las películas de Star Wars?
+
+![Pregunta5](https://i.ibb.co/b5Hzfbt/pregunta5.png)
+
+Para el 92.3% de los fans considera importante el año de publicación de cada película y solo un 7.7% no cree que este dato sea importante.
+
+* Pregunta 6: ¿Te gustaría saber el tiempo de duración de cada película?
+
+![Pregunta6](https://i.ibb.co/Kb1P9gn/pregunta6.png)
+
+Al 92.3% le gustaría saber el tiempo de duración de cada película y solo el 7.7 considera irrelevante esta información.
+
+## Síntesis y definición
+
+![Síntesis y definición](https://i.ibb.co/zV5TGmP/2.png)
+
+En esta etapa se usa la información obtenida de las encuestas para definir nuestro user persona.
+
+![Síntesis y definición](https://i.ibb.co/6Y3VhdR/user-Persona.png)
+
+## Ideación
+
+![Ideación](https://i.ibb.co/L9Tb2h2/3.png)
+
+En esta etapa definimos que información seria util para los usuarios y se definen las historias de usuario.
+
+Historia de usuario
+
+Despues de realizar las encuentas se idenfico los re
+
+1 Como : Fan de Star Wars
+
+  Quiero: Ver las portadas de las películas (imagen, titulo)
+
+  Para: Identificar las peliculas más rapido
+
+2 como: Fan de Star Wars
+
+  Quiero: Buscar las películas por año de estreno
+
+  Para: Decidir cual elegir
+
+3 como: Fan de Star Wars
+
+  Quiero: Saber el tiempo de duración de las peliculas 
+
+  Para: Ver una película que este acorde a mi disponibilidad de tiempo
+
+
+  ## Prototipado
+
+![Ideación](https://i.ibb.co/zJ5HFT6/4.png)
+
+### Prototipo de baja fidelidad
+
+Despues de obtener las historias de usuario, se realizó el protopito de baja fidelidad con lapiz y papel. El prototipo es de 3 pantallas con interfaz amigable para el usuario.
+
+![prototiGeneral](https://i.ibb.co/RjJBY8m/prototipo-General.jpg)
+![prototiPl](https://i.ibb.co/Byd7wgc/prototipo-P1.jpg)
+![prototiP2](https://i.ibb.co/d7pWFNN/prototipo-P2.jpg)
+![prototiP3](https://i.ibb.co/DDfm4wd/prototipo-P3.jpg)
+
+### Prototipo de alta fidelidad
+
+Se realizo el prototipo de alta fidelidad, según lo estipulado en el prototipo de baja fidelidad.
+
+![prototiAlta1](https://i.ibb.co/n3TxyX9/prototipo-Alta1.png)
+![prototiAlta2](https://i.ibb.co/7kzmdvH/prototipo-Alata2.png)
+![prototiAlta3](https://i.ibb.co/s1b92KT/prototipo-Alata3.png)
+
+[zeplin](https://zpl.io/beAvrym)
+[zeplin](https://zpl.io/bJpvjdn)
+[zeplin](https://zpl.io/aBRNeAk)
+
+## Test de usabilidad
+
+
+
+
+
+
