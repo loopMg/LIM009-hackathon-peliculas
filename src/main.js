@@ -62,8 +62,6 @@ fetch(urlStarWars)
         <img src="${dataMovie[i].Poster}" alt="poster" id="${dataMovie[i].imdbID}" class="poster-movie"/>
         <h1>${dataMovie[i].Title}</h1>
         <h2>(${dataMovie[i].Year})</h2> 
-        <button class="btn-info" value="${dataMovie[i].imdbID}" id="${dataMovie[i].imdbID}">Mas Detalles</button>
-
       </div>
     `; 
     }
@@ -87,7 +85,6 @@ fetch(urlStarWars)
             <img src="${newArrfilter[i].Poster}" alt="poster" class="poster-movie"/>
             <h1>${newArrfilter[i].Title}</h1>
             <h2>(${newArrfilter[i].Year})</h2>
-            <button class="btn-info" value="${newArrfilter[i].imdbID}" id="${newArrfilter[i].imdbID}">Mas Detalles</button>
         </div>
         `;
     } 
@@ -101,7 +98,6 @@ fetch(urlStarWars)
             <img src="${newArrfilter[i].Poster}" alt="poster" class="poster-movie"/>
             <h1>${newArrfilter[i].Title}</h1>
             <h2>(${newArrfilter[i].Year})</h2> 
-            <button class="btn-info" value="${newArrfilter[i].imdbID}" id="${newArrfilter[i].imdbID}">Mas Detalles</button>
         </div>    
         `;
     }

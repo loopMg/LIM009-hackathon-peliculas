@@ -6,32 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="style.css" />
-    <title>CiNerds</title>
+    <link href="https://fonts.googleapis.com/css?family=Anton|Oswald|Roboto+Condensed:300" rel="stylesheet">    <title>CiNerds</title>
 </head>
 
 <body>
     <header>
-        <figure></figure>
-        <nav class="navegacion">
+               
+        <nav class="navegacion">    
             <ul class="menu">
+                <li class="areaIcon"> 
+                        <img src="img/LOGO.png" alt="Icon" class = "icon">
+                    </li>
                 <li><a href="#" id="inicio">INICIO</a></li>
                 <li><a href="#" id="movies">PELICULAS</a></li>
             </ul>
         </nav>
-        <div class="slider">
-            <ul>
-              <li><img src="img/episodio1.jpg" alt=""></li>
-              <li><img src="img/episodio2.jpg" alt=""></li>
-              <li><img src="img/episodio3.jpg" alt=""></li>
-              <li><img src="img/episodio4.jpg" alt=""></li>
-              <li><img src="img/episodio5.jpg" alt=""></li>
-              <li><img src="img/episodio6.jpg" alt=""></li>
-              <li><img src="img/episodio7.jpg" alt=""></li>
-              <li><img src="img/episodio8.jpg" alt=""></li>
-              <li><img src="img/RogueOne.jpg" alt=""></li>
-              <li><img src="img/STARSWARS.jpg" alt=""></li> 
-            </ul>
-          </div>
     </header>
     <div id="menu-opt">
         <select name="FilterYears" id="filterYear">
@@ -39,20 +28,30 @@
             <option value="1999">Siglo Pasado</option>
             <option value="2000">Siglo Actual</option>
         </select>
-        <select name="OrdenarAz" id="sortOrder">
-            <option value="Az">Ordenar A-Z</option>
-            <option value="Za">Ordenar Z-A</option>
-        </select>
     </div>
     <main >
         <section id="containerInicio">
+                <div class="slider">
+                    <ul>
+                        <li><img src="img/episodio1.jpg" alt=""></li>
+                        <li><img src="img/episodio2.jpg" alt=""></li>
+                        <li><img src="img/episodio3.jpg" alt=""></li>
+                        <li><img src="img/episodio4.jpg" alt=""></li>
+                        <li><img src="img/episodio5.jpg" alt=""></li>
+                        <li><img src="img/episodio6.jpg" alt=""></li>
+                        <li><img src="img/episodio7.jpg" alt=""></li>
+                        <li><img src="img/episodio8.jpg" alt=""></li>
+                        <li><img src="img/RogueOne.jpg" alt=""></li>
+                        <li><img src="img/STARSWARS.jpg" alt=""></li> 
+                        </ul>
+                </div>
             <h2>Bienvenido al lado oscuro, en esta plataforma podrás encontrar toda la información de cada una de las películas de la saga Star Wars y siempre recuerda ...</h2>
             <h1>"ENTRENATE A TI MISMO PARA DEJAR IR TODO AQUELLO QUE TEMES PERDER"</h1>
         </section>
         <section id="containerMovies"></section>
         <section id="containerMovieInf">CULO</section>
     </main>
-    <footer></footer>
+    <footer  class="footer">© Copyright 2019 by Lorena, Noemi & Maga. <br> All rights reversed.</footer>
     <script src="data.js"></script>
     <script src="main.js"></script>
 </body>

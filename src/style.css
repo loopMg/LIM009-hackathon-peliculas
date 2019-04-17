@@ -11,19 +11,64 @@ body {
     box-sizing: border-box;
     background: black;
 }
+
+#containerInicio {
+    width: 80%;
+    max-width: 1000 px;
+    margin:0 auto;
+    overflow: hidden;
+}
 .navegacion{
     width: 1000px;
     margin: 30px auto;
     background: #3b3a3b;
+    height: 95px;;
 }
 .navegacion ul{
     list-style: none;
+    display: block;
+}
+
+.navegacion li {
+    height: 80px;
+}
+
+
+.areaIcon {
+    float: left;
+}
+.icon {
+    width: 50%;
+    margin: 0;
+    padding: 0;
+ 
+    float: left;
+}
+
+#inicio {
+    margin-top: 20%;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+#movies {
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+figure {
+    width: 100%;
+}
+.menu {
+    height: ;
 }
 
 .menu > li{
 position: relative;
+/* width: 20%; */
 display: inline-block;
 }
+
 .menu > li > a{
     display: block;
     padding: 15px 20px;
@@ -60,31 +105,49 @@ display: block
     display: inline-block;
 }
 
-.btn-info {
-    height: 5%;
-    width: 20%;
-}
 .slider li {
     width: 100%;
     list-style: none;
-    }
-    .slider img {
-       width:98%;
-     
-    }
+}
     
-    @keyframes cambio {
-       0%{ margin-left: 0%;}
-       10%{margin-left:0;}
-       15%{margin-left: 0;}
-       20%{margin-left: 0;}
-       0%{ margin-right:0;}
-       25%{ margin-left:-20%}
-       45%{margin-left:-40%}
-       55%{margin-left:-45%}
-       70%{margin-left:-60%}
-       75%{margin-left:-65%}
-       80%{ margin-left:-80%}
-       90%{margin-left:-90%}
-       100%{ margin-left:-100%}
-    }
+.slider ul{
+    display: flex;
+    animation: cambio 10s infinite alternate linear;
+    margin-top: 5%;
+}
+@keyframes cambio {
+    0%{ margin-left: 0%;}
+    10%{margin-left:0;}
+    15%{margin-left: 0;}
+    20%{margin-left: 0;}
+    0%{ margin-right:0;}
+    25%{ margin-left:-20%}
+    45%{margin-left:-40%}
+    55%{margin-left:-45%}
+    70%{margin-left:-60%}
+    75%{margin-left:-65%}
+    80%{ margin-left:-80%}
+    90%{margin-left:-90%}
+    100%{ margin-left:-100%}
+}
+
+#containerInicio h2 {
+    margin-top: 5%;
+    margin-bottom: 2%;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#containerInicio h1 {
+    margin-bottom: 2%;
+    font-family: 'Oswald', sans-serif;
+}
+
+.footer {
+    background: #2B2929;
+    height: 60px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+}
