@@ -1,0 +1,240 @@
+{
+    "peliculas": [
+        {
+            "Title": "Head-On",
+            "Year": "2004",
+            "Rated": "R",
+            "Released": "11 Mar 2004",
+            "Runtime": "121 min",
+            "Genre": "Drama, Romance",
+            "Director": "Fatih Akin",
+            "Writer": "Fatih Akin (book)",
+            "Actors": "Birol Ünel, Güven Kiraç, Zarah Jane McKenzie, Stefan Gebelhoff",
+            "Plot": "With the intention to break free from the strict familial restrictions, a suicidal young woman sets up a marriage of convenience with a forty-year-old addict, an act that will lead to an outburst of envious love.",
+            "Language": "German, Turkish, English",
+            "Country": "Germany, Turkey",
+            "Awards": "25 wins & 13 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BODBiNzYxNzYtMjkyMi00MjUyLWJkM2YtZjNkMDhhYmEwMTRiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.9/10"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "78/100"
+                }
+            ],
+            "Metascore": "78",
+            "imdbRating": "7.9",
+            "imdbVotes": "46,753",
+            "imdbID": "tt0347048",
+            "Type": "movie",
+            "DVD": "29 May 2007",
+            "BoxOffice": "N/A",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "They Live",
+            "Year": "1988",
+            "Rated": "R",
+            "Released": "04 Nov 1988",
+            "Runtime": "94 min",
+            "Genre": "Action, Horror, Sci-Fi, Thriller",
+            "Director": "John Carpenter",
+            "Writer": "Ray Nelson (short story "Eight O'Clock in the Morning"), John Carpenter (screenplay)",
+            "Actors": "Roddy Piper, Keith David, Meg Foster, George 'Buck' Flower",
+            "Plot": "A drifter discovers a pair of sunglasses that allow him to wake up to the fact that aliens have taken over the Earth.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "3 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MjM3ODU1NV5BMl5BanBnXkFtZTgwMjU3NDU2MTE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.3/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "85%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "54/100"
+                }
+            ],
+            "Metascore": "54",
+            "imdbRating": "7.3",
+            "imdbVotes": "94,445",
+            "imdbID": "tt0096256",
+            "Type": "movie",
+            "DVD": "10 Oct 2000",
+            "BoxOffice": "N/A",
+            "Production": "MCA/Universal Pictures",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "Pulp Fiction",
+            "Year": "1994",
+            "Rated": "R",
+            "Released": "14 Oct 1994",
+            "Runtime": "154 min",
+            "Genre": "Crime, Drama",
+            "Director": "Quentin Tarantino",
+            "Writer": "Quentin Tarantino (stories), Roger Avary (stories), Quentin Tarantino",
+            "Actors": "Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta",
+            "Plot": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "Language": "English, Spanish, French",
+            "Country": "USA",
+            "Awards": "Won 1 Oscar. Another 62 wins & 69 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.9/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "94%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "94/100"
+                }
+            ],
+            "Metascore": "94",
+            "imdbRating": "8.9",
+            "imdbVotes": "1,620,759",
+            "imdbID": "tt0110912",
+            "Type": "movie",
+            "DVD": "19 May 1998",
+            "BoxOffice": "N/A",
+            "Production": "Miramax Films",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "A Clockwork Orange",
+            "Year": "1971",
+            "Rated": "R",
+            "Released": "02 Feb 1972",
+            "Runtime": "136 min",
+            "Genre": "Crime, Drama, Sci-Fi",
+            "Director": "Stanley Kubrick",
+            "Writer": "Stanley Kubrick (screenplay), Anthony Burgess (novel)",
+            "Actors": "Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke",
+            "Plot": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+            "Language": "English",
+            "Country": "UK, USA",
+            "Awards": "Nominated for 4 Oscars. Another 9 wins & 19 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.3/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "89%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "80/100"
+                }
+            ],
+            "Metascore": "80",
+            "imdbRating": "8.3",
+            "imdbVotes": "679,285",
+            "imdbID": "tt0066921",
+            "Type": "movie",
+            "DVD": "29 Jun 1999",
+            "BoxOffice": "N/A",
+            "Production": "Warner Bros.",
+            "Website": "https://www.warnerbros.com/clockwork-orange",
+            "Response": "True"
+        },
+        {
+            "Title": "A Beautiful Mind",
+            "Year": "2001",
+            "Rated": "PG-13",
+            "Released": "04 Jan 2002",
+            "Runtime": "135 min",
+            "Genre": "Biography, Drama",
+            "Director": "Ron Howard",
+            "Writer": "Akiva Goldsman, Sylvia Nasar (book)",
+            "Actors": "Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer",
+            "Plot": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Won 4 Oscars. Another 33 wins & 67 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "74%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "72/100"
+                }
+            ],
+            "Metascore": "72",
+            "imdbRating": "8.2",
+            "imdbVotes": "763,079",
+            "imdbID": "tt0268978",
+            "Type": "movie",
+            "DVD": "25 Jun 2002",
+            "BoxOffice": "N/A",
+            "Production": "Universal Pictures",
+            "Website": "http://www.abeautifulmind.com",
+            "Response": "True"
+        },
+        {
+            "Title": "The Human Centipede (First Sequence)",
+            "Year": "2009",
+            "Rated": "R",
+            "Released": "28 Apr 2010",
+            "Runtime": "92 min",
+            "Genre": "Horror",
+            "Director": "Tom Six",
+            "Writer": "Tom Six",
+            "Actors": "Dieter Laser, Ashley C. Williams, Ashlynn Yennie, Akihiro Kitamura",
+            "Plot": "A mad scientist kidnaps and mutilates a trio of tourists in order to reassemble them into a human centipede, created by stitching their mouths to each others' rectums.",
+            "Language": "English, German, Japanese",
+            "Country": "Netherlands",
+            "Awards": "8 wins & 3 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4Nzk3NzYxOF5BMl5BanBnXkFtZTcwODQwNjQzMw@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "4.4/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "50%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "33/100"
+                }
+            ],
+            "Metascore": "33",
+            "imdbRating": "4.4",
+            "imdbVotes": "67,081",
+            "imdbID": "tt1467304",
+            "Type": "movie",
+            "DVD": "05 Oct 2010",
+            "BoxOffice": "N/A",
+            "Production": "IFC Films",
+            "Website": "http://www.ifcfilms.com/films/human-centipede",
+            "Response": "True"
+        }
+    ]
+}
