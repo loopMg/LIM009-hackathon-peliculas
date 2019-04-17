@@ -5,7 +5,6 @@
 * [Sobre Star Wars](#Sobre-Star-Wars)
 * [Definición del producto](#Definición-del-producto)
 * [Proceso de diseño](#Proceso-de-diseño)
-* [Historias de usuario](#Historias-de-usuario)
 * [Test de usabilidad](#Test-de-usabilidad)
 
  ***
@@ -71,66 +70,68 @@ Al 92.3% le gustaría saber el tiempo de duración de cada película y solo el 7
 
 ![Síntesis y definición](https://i.ibb.co/zV5TGmP/2.png)
 
-User persona
+En esta etapa se usa la información obtenida de las encuestas para definir nuestro user persona.
+
+![Síntesis y definición](https://i.ibb.co/6Y3VhdR/user-Persona.png)
 
 ## Ideación
 
 ![Ideación](https://i.ibb.co/L9Tb2h2/3.png)
+
+En esta etapa definimos que información seria util para los usuarios y se definen las historias de usuario.
 
 Historia de usuario
 
 Despues de realizar las encuentas se idenfico los re
 
 1 Como : Fan de Star Wars
+
   Quiero: Ver las portadas de las películas (imagen, titulo)
+
   Para: Identificar las peliculas más rapido
 
 2 como: Fan de Star Wars
+
   Quiero: Buscar las películas por año de estreno
+
   Para: Decidir cual elegir
 
 3 como: Fan de Star Wars
+
   Quiero: Saber el tiempo de duración de las peliculas 
+
   Para: Ver una película que este acorde a mi disponibilidad de tiempo
+
 
   ## Prototipado
 
 ![Ideación](https://i.ibb.co/zJ5HFT6/4.png)
 
-Se realizó el protopito de baja fidelidad
+### Prototipo de baja fidelidad
+
+Despues de obtener las historias de usuario, se realizó el protopito de baja fidelidad con lapiz y papel. El prototipo es de 3 pantallas con interfaz amigable para el usuario.
+
+![prototiGeneral](https://i.ibb.co/RjJBY8m/prototipo-General.jpg)
+![prototiPl](https://i.ibb.co/Byd7wgc/prototipo-P1.jpg)
+![prototiP2](https://i.ibb.co/d7pWFNN/prototipo-P2.jpg)
+![prototiP3](https://i.ibb.co/DDfm4wd/prototipo-P3.jpg)
+
+### Prototipo de alta fidelidad
+
+Se realizo el prototipo de alta fidelidad, según lo estipulado en el prototipo de baja fidelidad.
+
+![prototiAlta1](https://i.ibb.co/n3TxyX9/prototipo-Alta1.png)
+![prototiAlta2](https://i.ibb.co/7kzmdvH/prototipo-Alata2.png)
+![prototiAlta3](https://i.ibb.co/s1b92KT/prototipo-Alata3.png)
+
+[zeplin](https://zpl.io/beAvrym)
+[zeplin](https://zpl.io/bJpvjdn)
+[zeplin](https://zpl.io/aBRNeAk)
+
+## Test de usabilidad
 
 
-* Enfrentarte a un reto de corta duración en el que pongas en práctica todo
-lo aprendido hasta ahora.
-* Que sigas desarrollando tus habilidades de trabajo en equipo. Mientras más
-personas en un equipo de trabajo, mayor complejidad para: tener un entendimiento
-común, seguir el flujo de trabajo, buscar consensos, etc.
 
-## Parte Obligatoria
 
-* Todo el planeamiento del trabajo deberá ser detallado en un repositorio único
-por _squad_ en el que se presente el _planning_, el _research_, los _sketches_
-y las inspiraciones utilizadas para definir el producto.
-* Además, deberás detallar en el archivo _readme_, qué hizo cada una en el
-proyecto.
-* El producto deberá presentarse publicado en github pages.
 
-## Consideraciones técnicas
 
-* El diseño visual de los componentes es de libre elección de las estudiantes,
-sin embargo, si no quieren crearlo desde cero, pueden utilizar el que
-propuso [Walmart](https://drive.google.com/file/d/0B6GBtl-gO6LwaVprQkFqTGI2a28/view).
-* Deberán usar al menos un framework de css.
-
-## Reglas de las presentaciones 
-
-* Cada squad tendrá 5 minutos para presentar su demo y 5 minutos para recibir preguntas.
-
-* Las personas que presentan en la primera presentación no deben ser las mismas de la presentación final.
-
-## ¿Qué es la Feria de demos?
-
-La feria de demos se realizará el día de las presentaciones, consiste en la dinámica de “speed dating”, cada squad presentará su demo durante 3 minutos a un grupo de personas, entre ellos los jurados de la Hackathon. Luego de los 3 minutos sonará una chicharra y el grupo de personas rotará al siguiente squad, de esta forma deberán presentar durante una hora. 
-
-* Las demos no deben durar más de 3 minutos y deben mostrar el producto y las tecnologías usadas.
-* Los asistentes van a votar por los 5 equipos finalistas, quienes tendrán la oportunidad de hacer su demo a todo el público para poder elegir un ganador. 
