@@ -52,3 +52,15 @@ display: inline-block;
 .menu li:hover .submenu{
 display: block
 }
+
+.movie-box {
+    width: 30%;
+    height: 50%;
+    margin: 2%;
+    display: inline-block;
+}
+
+.btn-info {
+    height: 5%;
+    width: 20%;
+}

@@ -10,23 +10,35 @@
 </head>
 
 <body>
-
     <header>
-  <nav class="navegacion">
-      <ul class="menu">
-          <li><a href="#"  id="inicio">INICIO</a></li>
-          <li><a href="#"  id="pokeDex">PELICULAS</a></li>
-        </ul>
-  </nav>
-  </header>
-
-    
-    <main>
-        <section></section>
-        <section></section>
-        <section id="containerMovies" class="containerMovies"></section>
+        <figure></figure>
+        <nav class="navegacion">
+            <ul class="menu">
+                <li><a href="#" id="inicio">INICIO</a></li>
+                <li><a href="#" id="movies">PELICULAS</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div id="menu-opt">
+        <select name="FilterYears" id="filterYear">
+            <option value="#">Filtra ahora</option>
+            <option value="1999">Siglo Pasado</option>
+            <option value="2000">Siglo Actual</option>
+        </select>
+        <select name="OrdenarAz" id="sortOrder">
+            <option value="Az">Ordenar A-Z</option>
+            <option value="Za">Ordenar Z-A</option>
+        </select>
+    </div>
+    <main >
+        <section id="containerInicio">
+            <h2>Bienvenido al lado oscuro, en esta plataforma podrás encontrar toda la información de cada una de las películas de la saga Star Wars y siempre recuerda ...</h2>
+            <h1>"ENTRENATE A TI MISMO PARA DEJAR IR TODO AQUELLO QUE TEMES PERDER"</h1>
+        </section>
+        <section id="containerMovies"></section>
+        <section id="containerMovieInf">CULO</section>
     </main>
-  <footer></footer>
+    <footer></footer>
     <script src="data.js"></script>
     <script src="main.js"></script>
 </body>
