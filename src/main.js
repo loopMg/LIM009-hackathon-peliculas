@@ -2,14 +2,10 @@
 // Paginas
 const startPage = document.getElementById('containerInicio');
 const moviesPage = document.getElementById('containerMovies');
-const moviePageInf = document.getElementById('containerMovieInf');
 const navOpt = document.getElementById('menu-opt');
-
-
 
 startPage.style.display = 'block';
 moviesPage.style.display = 'none';
-moviePageInf.style.display = 'none';
 navOpt.style.display = 'none';
 
 // botones
@@ -20,14 +16,12 @@ const btnMovies = document.getElementById('movies');
 btnStart.addEventListener('click', () => {
     startPage.style.display = 'block';
     moviesPage.style.display = 'none';
-    moviePageInf.style.display = 'none';
     navOpt.style.display = 'none';
 });
 
 btnMovies.addEventListener('click', () =>{
     startPage.style.display = 'none';
     moviesPage.style.display = 'block';
-    moviePageInf.style.display = 'none';
     navOpt.style.display = 'block';
 });
 
